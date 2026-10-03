@@ -236,4 +236,4 @@ This repository serves as the official landing page for MPCStar. The software is
 **Get the most recent version of MPCStar today!**
 
 ---
-**Last updated:** 2026-10-03 16:50:02 UTC
+**Last updated:** 2026-10-03 19:34:25 UTC
